@@ -96,6 +96,8 @@ The knowledge primer concludes with a clustering analysis using K-Means clusteri
 <a href="https://github.com/GyaneshSamanta/Youth-Data-Hack/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=GyaneshSamanta/Youth-Data-Hack" alt="Contributors">
 </a>
+<img src="https://contrib.rocks/image?repo=priyadarshss/bullets-over-broadway" alt="Contributors">
+</a>
                                                                                   
 # 🚨 Forking this repo
 
