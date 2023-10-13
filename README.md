@@ -1,9 +1,6 @@
 <div align="center">
   <img alt="HackRx3.0" src="docs/hackrx.png" height="65" />
 </div>
-<div align="center">
-  <img alt="NudgeLab by NudgeFudge" src="docs/logo.svg" height="56" />
-</div>
 
 <br>
 <p align="center">
